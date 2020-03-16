@@ -1,0 +1,8 @@
+h1 {
+    text-align: center;
+}
+div.container {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
